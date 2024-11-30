@@ -43,6 +43,8 @@ I am a computer scientist with a passion for AI, cloud computing, and methodolog
 
 </div>
 
+</div>
+
 ---
 
 ### 📊 GitHub Statistics

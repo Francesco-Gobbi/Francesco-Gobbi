@@ -50,14 +50,14 @@ I am a computer scientist with a passion for AI, cloud computing, and methodolog
 ### 📊 GitHub Statistics
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francesco-Gobbi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco-Gobbi&layout=compact&theme=radical)
 
 ---
 
 ### Other Badges:
 <br>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 </div>

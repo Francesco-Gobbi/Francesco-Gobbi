@@ -39,12 +39,3 @@ I am a computer scientist with a passion for AI, cloud computing, and methodolog
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francesco-Gobbi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco-Gobbi&layout=compact&theme=radical)
-
----
-
-### Other Badges:
-<br>
-
-
-
-</div>
